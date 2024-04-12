@@ -36,13 +36,14 @@
    36  ./
    37  cd../
    38  help
-   39  touch index.html
-   40  touch readme
-   41  git init
-   42  git add .
-   43  git commit -m "Prueba2"
-   44  git push
-   45  git remote add origin git remote add origin https://github.com/ingridoa/Excelencia2024.git
-   46  git branch -M main
-   47  git push -u origin main
-   48  history >cheatsheet.txt
+   39  clear
+   40  git remote
+   41  git remote add origin https://github.com/ingridoa/Excelencia2024.git
+   42  git remote
+   43  git status
+   44  git status
+   45  git add .
+   46  git commit -m "prueba3"
+   47  git push
+   48  git push origin main
+   49  history >cheatsheet.txt
