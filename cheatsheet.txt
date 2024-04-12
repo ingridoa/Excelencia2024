@@ -1,0 +1,48 @@
+    1  sgit clone
+    2  git clone
+    3  destokp
+    4  help clone
+    5  man -k
+    6  help
+    7  comands
+    8  git clone
+    9  root --
+   10  desktop
+   11  bash
+   12  git clone https://github.com/Tablonimus/TalentoDigital-G4.git
+   13  git clone https://github.com/Tablonimus/TalentoDigital-G4.git
+   14    git clone [200~https://github.com/Tablonimus/TalentoDigital-G4.git~
+   15  git clone https://github.com/Tablonimus/TalentoDigital-G4.git
+   16  git clone https://github.com/Tablonimus/TalentoDigital-G4.git
+   17  git clone https://github.com/Tablonimus/TalentoDigital-G4.git
+   18  git clone https://github.com/Tablonimus/TalentoDigital-G4.git
+   19  GIT CLONE 
+   20  GIT
+   21  touch index.htm
+   22  mkdir -p assets/css assets/img assets/js && touch index.html README.md assets/css/style.css assets/js/index.js
+   23  ls
+   24  .cd/
+   25  pwd
+   26  ls
+   27  cd desktop
+   28  cd desktop.ini
+   29  clear
+   30  cd..
+   31  pwd
+   32  ls -a
+   33  ls
+   34  mkdir Proyecto24
+   35  ./ ../
+   36  ./
+   37  cd../
+   38  help
+   39  touch index.html
+   40  touch readme
+   41  git init
+   42  git add .
+   43  git commit -m "Prueba2"
+   44  git push
+   45  git remote add origin git remote add origin https://github.com/ingridoa/Excelencia2024.git
+   46  git branch -M main
+   47  git push -u origin main
+   48  history >cheatsheet.txt
